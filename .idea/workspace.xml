@@ -4,230 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="404689e5-d8a3-415a-b6f6-434ad2975814" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/Mediator/Tarea10/Cliente.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/Mediator/Tarea10/Colleague.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/Mediator/Tarea10/DEV.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/Mediator/Tarea10/ICanalDeComunicacion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/Mediator/Tarea10/QA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/Mediator/Tarea10/SM.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/Mediator/Tarea10/Skype.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Mediator/Tarea10/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Mediator/Tarea10/Colleague.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Mediator/Tarea10/DEV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Mediator/Tarea10/ICanalDeComunicacion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Mediator/Tarea10/QA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Mediator/Tarea10/SM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Mediator/Tarea10/Skype.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Mediator/Tarea10/_enunciado" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+    <list default="true" id="404689e5-d8a3-415a-b6f6-434ad2975814" name="Default Changelist" comment="Tarea 10 (Ejercicio mediator) - Alejandra Chirinos">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Memento/Tarea11/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Memento/Tarea11/DataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Memento/Tarea11/Memento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Memento/Tarea11/Originator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Memento/Tarea11/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Memento/Tarea11/_enunciado" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries-with-intellij-classes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/AbstractFactory/Tarea5/Avion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/AbstractFactory/Tarea5/Cliente.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/AbstractFactory/Tarea5/Destino.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/AbstractFactory/Tarea5/FactoryPasaje$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/AbstractFactory/Tarea5/FactoryPasaje$typePasaje.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/AbstractFactory/Tarea5/FactoryPasaje.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/AbstractFactory/Tarea5/IPasaje.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/AbstractFactory/Tarea5/Origen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/AbstractFactory/Tarea5/PasajeEstandar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/AbstractFactory/Tarea5/PasajeInfante.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/AbstractFactory/Tarea5/PasajeSolidario.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/AbstractFactory/Tarea5/Pasajero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/AbstractFactory/Tarea6/Base.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/AbstractFactory/Tarea6/Cliente.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/AbstractFactory/Tarea6/Crema.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/AbstractFactory/Tarea6/FactoryHelado$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/AbstractFactory/Tarea6/FactoryHelado$typeHelado.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/AbstractFactory/Tarea6/FactoryHelado.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/AbstractFactory/Tarea6/Fruta.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/AbstractFactory/Tarea6/HeladoAgua.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/AbstractFactory/Tarea6/HeladoCrema.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/AbstractFactory/Tarea6/HeladoMixto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/AbstractFactory/Tarea6/IHelado.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Builder/Tarea7/BuilderPizza.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Builder/Tarea7/Cliente.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Builder/Tarea7/Cocinero_Director.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Builder/Tarea7/Pizza.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Builder/Tarea7/PizzaCarnivora.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Builder/Tarea7/PizzaClasica.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Builder/Tarea7/PizzaHawaiana.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/FactoryMethod/Tarea4/Avion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/FactoryMethod/Tarea4/Cliente.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/FactoryMethod/Tarea4/CreatorPasaje.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/FactoryMethod/Tarea4/CreatorPasajeEstandar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/FactoryMethod/Tarea4/CreatorPasajeInfante.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/FactoryMethod/Tarea4/CreatorPasajeSolidario.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/FactoryMethod/Tarea4/Destino.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/FactoryMethod/Tarea4/IPasaje.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/FactoryMethod/Tarea4/Origen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/FactoryMethod/Tarea4/PasajeEstandar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/FactoryMethod/Tarea4/PasajeInfante.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/FactoryMethod/Tarea4/PasajeSolidario.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/FactoryMethod/Tarea4/Pasajero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Interpreter/Tarea8/AbstractExpression.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Interpreter/Tarea8/Cliente.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Interpreter/Tarea8/ContextNumerosRomanos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Interpreter/Tarea8/NoTerminalExpression.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Interpreter/Tarea8/TerminalExpressionI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Interpreter/Tarea8/TerminalExpressionV.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Interpreter/Tarea8/TerminalExpressionX.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Prototype/Tarea3/Accesorios.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Prototype/Tarea3/CaracteristicasDeCelular.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Prototype/Tarea3/Cliente.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Prototype/Tarea3/SamsungR10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Prototype/Tarea3/Sim.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Singleton/Tarea2/Banco.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Singleton/Tarea2/CambioDeMoneda.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Singleton/Tarea2/CasaDeCambio.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Singleton/Tarea2/Cliente.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Singleton/Tarea2/LibreCambista.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/AbstractFactory/Tarea5/Avion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/AbstractFactory/Tarea5/Avion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/AbstractFactory/Tarea5/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/AbstractFactory/Tarea5/Cliente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/AbstractFactory/Tarea5/Destino.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/AbstractFactory/Tarea5/Destino.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/AbstractFactory/Tarea5/FactoryPasaje$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/AbstractFactory/Tarea5/FactoryPasaje$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/AbstractFactory/Tarea5/FactoryPasaje$typePasaje.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/AbstractFactory/Tarea5/FactoryPasaje$typePasaje.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/AbstractFactory/Tarea5/FactoryPasaje.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/AbstractFactory/Tarea5/FactoryPasaje.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/AbstractFactory/Tarea5/IPasaje.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/AbstractFactory/Tarea5/IPasaje.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/AbstractFactory/Tarea5/Origen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/AbstractFactory/Tarea5/Origen.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/AbstractFactory/Tarea5/PasajeEstandar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/AbstractFactory/Tarea5/PasajeEstandar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/AbstractFactory/Tarea5/PasajeInfante.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/AbstractFactory/Tarea5/PasajeInfante.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/AbstractFactory/Tarea5/PasajeSolidario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/AbstractFactory/Tarea5/PasajeSolidario.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/AbstractFactory/Tarea5/Pasajero.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/AbstractFactory/Tarea5/Pasajero.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/AbstractFactory/Tarea6/Base.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/AbstractFactory/Tarea6/Base.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/AbstractFactory/Tarea6/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/AbstractFactory/Tarea6/Cliente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/AbstractFactory/Tarea6/Crema.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/AbstractFactory/Tarea6/Crema.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/AbstractFactory/Tarea6/FactoryHelado$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/AbstractFactory/Tarea6/FactoryHelado$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/AbstractFactory/Tarea6/FactoryHelado$typeHelado.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/AbstractFactory/Tarea6/FactoryHelado$typeHelado.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/AbstractFactory/Tarea6/FactoryHelado.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/AbstractFactory/Tarea6/FactoryHelado.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/AbstractFactory/Tarea6/Fruta.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/AbstractFactory/Tarea6/Fruta.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/AbstractFactory/Tarea6/HeladoAgua.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/AbstractFactory/Tarea6/HeladoAgua.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/AbstractFactory/Tarea6/HeladoCrema.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/AbstractFactory/Tarea6/HeladoCrema.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/AbstractFactory/Tarea6/HeladoMixto.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/AbstractFactory/Tarea6/HeladoMixto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/AbstractFactory/Tarea6/IHelado.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/AbstractFactory/Tarea6/IHelado.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Builder/Tarea7/BuilderPizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Builder/Tarea7/BuilderPizza.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Builder/Tarea7/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Builder/Tarea7/Cliente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Builder/Tarea7/Cocinero_Director.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Builder/Tarea7/Cocinero_Director.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Builder/Tarea7/Pizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Builder/Tarea7/Pizza.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Builder/Tarea7/PizzaCarnivora.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Builder/Tarea7/PizzaCarnivora.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Builder/Tarea7/PizzaClasica.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Builder/Tarea7/PizzaClasica.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Builder/Tarea7/PizzaHawaiana.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Builder/Tarea7/PizzaHawaiana.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/FactoryMethod/Tarea4/Avion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/FactoryMethod/Tarea4/Avion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/FactoryMethod/Tarea4/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/FactoryMethod/Tarea4/Cliente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/FactoryMethod/Tarea4/CreatorPasaje.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/FactoryMethod/Tarea4/CreatorPasaje.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/FactoryMethod/Tarea4/CreatorPasajeEstandar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/FactoryMethod/Tarea4/CreatorPasajeEstandar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/FactoryMethod/Tarea4/CreatorPasajeInfante.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/FactoryMethod/Tarea4/CreatorPasajeInfante.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/FactoryMethod/Tarea4/CreatorPasajeSolidario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/FactoryMethod/Tarea4/CreatorPasajeSolidario.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/FactoryMethod/Tarea4/Destino.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/FactoryMethod/Tarea4/Destino.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/FactoryMethod/Tarea4/IPasaje.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/FactoryMethod/Tarea4/IPasaje.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/FactoryMethod/Tarea4/Origen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/FactoryMethod/Tarea4/Origen.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/FactoryMethod/Tarea4/PasajeEstandar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/FactoryMethod/Tarea4/PasajeEstandar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/FactoryMethod/Tarea4/PasajeInfante.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/FactoryMethod/Tarea4/PasajeInfante.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/FactoryMethod/Tarea4/PasajeSolidario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/FactoryMethod/Tarea4/PasajeSolidario.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/FactoryMethod/Tarea4/Pasajero.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/FactoryMethod/Tarea4/Pasajero.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Interpreter/Tarea8/AbstractExpression.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Interpreter/Tarea8/AbstractExpression.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Interpreter/Tarea8/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Interpreter/Tarea8/Cliente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Interpreter/Tarea8/ContextNumerosRomanos.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Interpreter/Tarea8/ContextNumerosRomanos.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Interpreter/Tarea8/NoTerminalExpression.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Interpreter/Tarea8/NoTerminalExpression.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Interpreter/Tarea8/TerminalExpressionI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Interpreter/Tarea8/TerminalExpressionI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Interpreter/Tarea8/TerminalExpressionV.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Interpreter/Tarea8/TerminalExpressionV.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Interpreter/Tarea8/TerminalExpressionX.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Interpreter/Tarea8/TerminalExpressionX.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/AbstractFactory4/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/AbstractFactory4/Cliente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/AbstractFactory4/Estudiante.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/AbstractFactory4/Estudiante.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/AbstractFactory4/FactoryMateria$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/AbstractFactory4/FactoryMateria$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/AbstractFactory4/FactoryMateria$typeMateria.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/AbstractFactory4/FactoryMateria$typeMateria.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/AbstractFactory4/FactoryMateria.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/AbstractFactory4/FactoryMateria.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/AbstractFactory4/Historia.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/AbstractFactory4/Historia.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/AbstractFactory4/IMateria.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/AbstractFactory4/IMateria.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/AbstractFactory4/Ingles.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/AbstractFactory4/Ingles.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/AbstractFactory4/Lenguaje.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/AbstractFactory4/Lenguaje.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/AbstractFactory4/Matematicas.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/AbstractFactory4/Matematicas.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/Builder5/Bife.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/Builder5/Bife.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/Builder5/BuilderParrillada.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/Builder5/BuilderParrillada.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/Builder5/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/Builder5/Cliente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/Builder5/Cocinero_Director.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/Builder5/Cocinero_Director.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/Builder5/Lomito.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/Builder5/Lomito.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/Builder5/Parrillada.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/Builder5/Parrillada.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/Builder5/Tira.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/Builder5/Tira.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/FactoryMethod3/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/FactoryMethod3/Cliente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/FactoryMethod3/Computadora.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/FactoryMethod3/Computadora.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/FactoryMethod3/CreatorKit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/FactoryMethod3/CreatorKit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/FactoryMethod3/CreatorKitColegial.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/FactoryMethod3/CreatorKitColegial.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/FactoryMethod3/CreatorKitEscolar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/FactoryMethod3/CreatorKitEscolar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/FactoryMethod3/Cuaderno.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/FactoryMethod3/Cuaderno.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/FactoryMethod3/Deportivo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/FactoryMethod3/Deportivo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/FactoryMethod3/IKit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/FactoryMethod3/IKit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/FactoryMethod3/KitColegial.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/FactoryMethod3/KitColegial.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/FactoryMethod3/KitEscolar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/FactoryMethod3/KitEscolar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/FactoryMethod3/Libro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/FactoryMethod3/Libro.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/FactoryMethod3/Mochila.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/FactoryMethod3/Mochila.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/Interpreter6/Abstractexpression.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/Interpreter6/Abstractexpression.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/Interpreter6/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/Interpreter6/Cliente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/Interpreter6/Context.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/Interpreter6/Context.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/Interpreter6/NoTerminalExpression.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/Interpreter6/NoTerminalExpression.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/Interpreter6/TerminalExpression.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/Interpreter6/TerminalExpression.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/Interpreter62clases/AbstractExpresion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/Interpreter62clases/AbstractExpresion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/Interpreter62clases/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/Interpreter62clases/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/Interpreter62clases/ContextGherkins.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/Interpreter62clases/ContextGherkins.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/Interpreter62clases/InterpreterGherkins.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/Interpreter62clases/InterpreterGherkins.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/Interpreter62clases/TerminaExpresionAny.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/Interpreter62clases/TerminaExpresionAny.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/Interpreter62clases/TerminaExpresionComo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/Interpreter62clases/TerminaExpresionComo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/Interpreter62clases/TerminaExpresionPara.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/Interpreter62clases/TerminaExpresionPara.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/Interpreter62clases/TerminaExpresionQuiero.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/Interpreter62clases/TerminaExpresionQuiero.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/Iterator7/Bussiness1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/Iterator7/Bussiness1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/Iterator7/Bussiness2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/Iterator7/Bussiness2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/Iterator7/Bussiness3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/Iterator7/Bussiness3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/Iterator7/Bussiness4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/Iterator7/Bussiness4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/Iterator7/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/Iterator7/Cliente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/Iterator7/IList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/Iterator7/IList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/Iterator7/Iterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/Iterator7/Iterator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/Iterator7/IteratorBussiness1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/Iterator7/IteratorBussiness1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/Iterator7/IteratorBussiness2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/Iterator7/IteratorBussiness2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/Iterator7/IteratorBussiness3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/Iterator7/IteratorBussiness3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/Iterator7/IteratorBussiness4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/Iterator7/IteratorBussiness4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/Iterator72clases/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/Iterator72clases/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/Iterator72clases/Empleado.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/Iterator72clases/Empleado.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/Iterator72clases/EmpresaAvantica.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/Iterator72clases/EmpresaAvantica.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/Iterator72clases/EmpresaJalaSoft.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/Iterator72clases/EmpresaJalaSoft.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/Iterator72clases/EmpresaMojix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/Iterator72clases/EmpresaMojix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/Iterator72clases/EmpresaTruextend.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/Iterator72clases/EmpresaTruextend.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/Iterator72clases/IEmpresa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/Iterator72clases/IEmpresa.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/Iterator72clases/Iterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/Iterator72clases/Iterator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/Iterator72clases/IteratorAvantica.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/Iterator72clases/IteratorAvantica.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/Iterator72clases/IteratorJalasoft.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/Iterator72clases/IteratorJalasoft.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/Iterator72clases/IteratorMojix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/Iterator72clases/IteratorMojix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/Iterator72clases/IteratorTruextend.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/Iterator72clases/IteratorTruextend.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/Prototype2/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/Prototype2/Cliente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/Prototype2/ContratoDocente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/Prototype2/ContratoDocente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/Prototype2/IContrato.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/Prototype2/IContrato.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/Singleton1/Cajero.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/Singleton1/Cajero.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/Singleton1/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/Singleton1/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/Singleton1/Colegio.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/Singleton1/Colegio.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/Singleton1/Estudiante.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/Singleton1/Estudiante.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Practica1/Singleton1/Ventanilla.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Practica1/Singleton1/Ventanilla.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Prototype/Tarea3/Accesorios.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Prototype/Tarea3/Accesorios.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Prototype/Tarea3/CaracteristicasDeCelular.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Prototype/Tarea3/CaracteristicasDeCelular.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Prototype/Tarea3/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Prototype/Tarea3/Cliente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Prototype/Tarea3/SamsungR10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Prototype/Tarea3/SamsungR10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Prototype/Tarea3/Sim.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Prototype/Tarea3/Sim.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Singleton/Tarea2/Banco.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Singleton/Tarea2/Banco.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Singleton/Tarea2/CambioDeMoneda.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Singleton/Tarea2/CambioDeMoneda.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Singleton/Tarea2/CasaDeCambio.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Singleton/Tarea2/CasaDeCambio.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Singleton/Tarea2/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Singleton/Tarea2/Cliente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Singleton/Tarea2/LibreCambista.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Singleton/Tarea2/LibreCambista.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -274,14 +59,29 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Memento.Tarea11" />
       <recent name="Mediator.Tarea10" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Cliente (1)">
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Memento.Tarea11.Client" />
+      <module name="Patrones-de-dise-o-Alejandra-Chirinos.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Memento.Tarea11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Cliente (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Mediator.Tarea10.Cliente" />
       <module name="Patrones-de-dise-o-Alejandra-Chirinos.main" />
@@ -310,6 +110,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client" />
         <item itemvalue="Application.Cliente (1)" />
         <item itemvalue="Application.Cliente" />
       </list>
@@ -324,6 +125,14 @@
       <option name="presentableId" value="Default" />
       <updated>1622762225598</updated>
     </task>
+    <task id="LOCAL-00001" summary="Tarea 10 (Ejercicio mediator) - Alejandra Chirinos">
+      <created>1622774084230</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1622774084230</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -336,5 +145,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tarea 10 (Ejercicio mediator) - Alejandra Chirinos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tarea 10 (Ejercicio mediator) - Alejandra Chirinos" />
   </component>
 </project>
