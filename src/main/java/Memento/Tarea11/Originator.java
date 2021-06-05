@@ -1,26 +1,26 @@
 package Memento.Tarea11;
 
 public class Originator {
-    private Person state;
+    private BackUplist state;
 
     public Originator(){}
 
-    public void setState(Person state) {
+    public void setState(BackUplist state) {
         System.out.println("**** Set State *****");
-        state.info();
+        state.showInfo();
         this.state = state;
     }
 
-    public Memento createPerson(){
+    public Memento createBackUp(){
         System.out.println("**** Create State *****");
-        state.info();
+        state.showInfo();
         return new Memento(this.state) ;
     }
 
     public void restoreFromMemento(Memento memento){
         this.state=memento.getState();
         System.out.println("**** State Restored *****");
-        this.state.info();
+        this.state.showInfo();
     }
 
 }

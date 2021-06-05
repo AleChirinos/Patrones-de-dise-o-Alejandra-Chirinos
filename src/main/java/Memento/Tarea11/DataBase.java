@@ -1,16 +1,18 @@
 package Memento.Tarea11;
 
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 public class DataBase {
-    private Map<String,Memento> stateSaved= new HashMap<>();
+    private List<Memento> stateSaved= new ArrayList<>();
 
-    public void createBackup(String aliasBackup, Memento memento){
-        stateSaved.put(aliasBackup,memento);
+    public void addBackup(Memento memento){
+        stateSaved.add(memento);
     }
 
-    public Memento getMemento(String aliasBackup){
-        return stateSaved.get(aliasBackup);
+    public Memento getMemento(int position){
+        return stateSaved.get(position);
     }
 }

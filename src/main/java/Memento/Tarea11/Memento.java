@@ -2,13 +2,13 @@ package Memento.Tarea11;
 
 
 public class Memento {
-    private Person state;
+    private BackUplist state;
 
-    public Memento(Person stateSaved){
+    public Memento(BackUplist stateSaved){
         this.state=stateSaved;
     }
 
-    public Person getState() {
+    public BackUplist getState() {
         return state;
     }
 }
