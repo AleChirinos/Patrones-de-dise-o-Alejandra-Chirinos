@@ -4,13 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="404689e5-d8a3-415a-b6f6-434ad2975814" name="Default Changelist" comment="Tarea 11 (Ejercicio memento) - Alejandra Chirinos">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Memento/Tarea11/BackUplist.java" afterDir="false" />
+    <list default="true" id="404689e5-d8a3-415a-b6f6-434ad2975814" name="Default Changelist" comment="Tarea 11 (Ejercicio memento - arreglos) - Alejandra Chirinos">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ChainOfResponsability/Tarea12/Ejercicio1/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ChainOfResponsability/Tarea12/Ejercicio1/DevOps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ChainOfResponsability/Tarea12/Ejercicio1/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ChainOfResponsability/Tarea12/Ejercicio1/Encargado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ChainOfResponsability/Tarea12/Ejercicio1/Finanzas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ChainOfResponsability/Tarea12/Ejercicio1/IEncargados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ChainOfResponsability/Tarea12/Ejercicio1/QA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ChainOfResponsability/Tarea12/Ejercicio1/Solicitud.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ChainOfResponsability/Tarea12/Ejercicio1/Support.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ChainOfResponsability/Tarea12/Ejercicio1/_enunciado" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Memento/Tarea11/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Memento/Tarea11/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Memento/Tarea11/DataBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Memento/Tarea11/DataBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Memento/Tarea11/Memento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Memento/Tarea11/Memento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Memento/Tarea11/Originator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Memento/Tarea11/Originator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,16 +63,20 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Patrones de diseño\Tareas git\Patrones-de-dise-o-Alejandra-Chirinos\src\main\java\ChainOfResponsability\Tarea12\Ejercicio1" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Memento.Tarea11" />
       <recent name="Mediator.Tarea10" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Client">
+  <component name="RunManager" selected="Application.Cliente (2)">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Memento.Tarea11.Client" />
       <module name="Patrones-de-dise-o-Alejandra-Chirinos.main" />
@@ -93,6 +103,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Cliente (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ChainOfResponsability.Tarea12.Ejercicio1.Cliente" />
+      <module name="Patrones-de-dise-o-Alejandra-Chirinos.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ChainOfResponsability.Tarea12.Ejercicio1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Cliente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Singleton.Tarea2.Cliente" />
       <module name="Patrones-de-dise-o-Alejandra-Chirinos.main" />
@@ -108,6 +131,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Cliente (2)" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.Cliente (1)" />
         <item itemvalue="Application.Cliente" />
@@ -137,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622871665377</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Tarea 11 (Ejercicio memento - arreglos) - Alejandra Chirinos">
+      <created>1622908746424</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1622908746424</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -155,6 +186,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Tarea 10 (Ejercicio mediator) - Alejandra Chirinos" />
     <MESSAGE value="Tarea 11 (Ejercicio memento) - Alejandra Chirinos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tarea 11 (Ejercicio memento) - Alejandra Chirinos" />
+    <MESSAGE value="Tarea 11 (Ejercicio memento - arreglos) - Alejandra Chirinos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tarea 11 (Ejercicio memento - arreglos) - Alejandra Chirinos" />
   </component>
 </project>
