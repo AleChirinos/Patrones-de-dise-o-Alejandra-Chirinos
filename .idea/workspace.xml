@@ -4,19 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="404689e5-d8a3-415a-b6f6-434ad2975814" name="Default Changelist" comment="Tarea 11 (Ejercicio memento - arreglos) - Alejandra Chirinos">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ChainOfResponsability/Tarea12/Ejercicio1/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ChainOfResponsability/Tarea12/Ejercicio1/DevOps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ChainOfResponsability/Tarea12/Ejercicio1/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ChainOfResponsability/Tarea12/Ejercicio1/Encargado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ChainOfResponsability/Tarea12/Ejercicio1/Finanzas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ChainOfResponsability/Tarea12/Ejercicio1/IEncargados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ChainOfResponsability/Tarea12/Ejercicio1/QA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ChainOfResponsability/Tarea12/Ejercicio1/Solicitud.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ChainOfResponsability/Tarea12/Ejercicio1/Support.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ChainOfResponsability/Tarea12/Ejercicio1/_enunciado" afterDir="false" />
+    <list default="true" id="404689e5-d8a3-415a-b6f6-434ad2975814" name="Default Changelist" comment="Tarea 12 (Ejercicio Chain of Responsability - clases) - Alejandra Chirinos">
+      <change afterPath="$PROJECT_DIR$/.idea/Patrones-de-dise-o-Alejandra-Chirinos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ChainOfResponsability/Tarea12/Ejercicio2/AyudaAlCliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ChainOfResponsability/Tarea12/Ejercicio2/Cajero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ChainOfResponsability/Tarea12/Ejercicio2/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ChainOfResponsability/Tarea12/Ejercicio2/ICarnetizacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ChainOfResponsability/Tarea12/Ejercicio2/Notario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ChainOfResponsability/Tarea12/Ejercicio2/Oficina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ChainOfResponsability/Tarea12/Ejercicio2/Requisitos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ChainOfResponsability/Tarea12/Ejercicio2/ResponsableDeCarnetizacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ChainOfResponsability/Tarea12/Ejercicio2/_enunciado" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ChainOfResponsability/Tarea12/Ejercicio3/ArregloPersonas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ChainOfResponsability/Tarea12/Ejercicio3/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ChainOfResponsability/Tarea12/Ejercicio3/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ChainOfResponsability/Tarea12/Ejercicio3/EncargadoOrdenamiento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ChainOfResponsability/Tarea12/Ejercicio3/IHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ChainOfResponsability/Tarea12/Ejercicio3/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ChainOfResponsability/Tarea12/Ejercicio3/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ChainOfResponsability/Tarea12/Ejercicio3/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ChainOfResponsability/Tarea12/Ejercicio3/_enunciado" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ChainOfResponsability/Tarea12/Ejercicio1/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ChainOfResponsability/Tarea12/Ejercicio1/Cliente.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +61,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -72,11 +86,12 @@
       <recent name="D:\Patrones de diseño\Tareas git\Patrones-de-dise-o-Alejandra-Chirinos\src\main\java\ChainOfResponsability\Tarea12\Ejercicio1" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ChainOfResponsability.Tarea12.Ejercicio2" />
       <recent name="Memento.Tarea11" />
       <recent name="Mediator.Tarea10" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Cliente (2)">
+  <component name="RunManager" selected="Application.Cliente (4)">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Memento.Tarea11.Client" />
       <module name="Patrones-de-dise-o-Alejandra-Chirinos.main" />
@@ -116,12 +131,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Cliente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Singleton.Tarea2.Cliente" />
+    <configuration name="Cliente (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ChainOfResponsability.Tarea12.Ejercicio3.Cliente" />
       <module name="Patrones-de-dise-o-Alejandra-Chirinos.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Singleton.Tarea2.*" />
+          <option name="PATTERN" value="ChainOfResponsability.Tarea12.Ejercicio3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cliente (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ChainOfResponsability.Tarea12.Ejercicio2.Cliente" />
+      <module name="Patrones-de-dise-o-Alejandra-Chirinos.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ChainOfResponsability.Tarea12.Ejercicio2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,10 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Cliente (4)" />
+        <item itemvalue="Application.Cliente (3)" />
         <item itemvalue="Application.Cliente (2)" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.Cliente (1)" />
-        <item itemvalue="Application.Cliente" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622908746424</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Tarea 12 (Ejercicio Chain of Responsability - clases) - Alejandra Chirinos">
+      <created>1623099821591</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1623099821591</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -187,6 +223,7 @@
     <MESSAGE value="Tarea 10 (Ejercicio mediator) - Alejandra Chirinos" />
     <MESSAGE value="Tarea 11 (Ejercicio memento) - Alejandra Chirinos" />
     <MESSAGE value="Tarea 11 (Ejercicio memento - arreglos) - Alejandra Chirinos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tarea 11 (Ejercicio memento - arreglos) - Alejandra Chirinos" />
+    <MESSAGE value="Tarea 12 (Ejercicio Chain of Responsability - clases) - Alejandra Chirinos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tarea 12 (Ejercicio Chain of Responsability - clases) - Alejandra Chirinos" />
   </component>
 </project>

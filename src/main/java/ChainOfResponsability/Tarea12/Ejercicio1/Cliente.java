@@ -10,6 +10,5 @@ public class Cliente {
         encargado.solucionarError(new Solicitud(false,false,false,true,false,false ));
         encargado.solucionarError(new Solicitud(false,false,false,false,true,false ));
         encargado.solucionarError(new Solicitud(false,false,false,false,false,true ));
-
     }
 }
