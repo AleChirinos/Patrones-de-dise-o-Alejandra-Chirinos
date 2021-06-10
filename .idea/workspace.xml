@@ -4,15 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="404689e5-d8a3-415a-b6f6-434ad2975814" name="Default Changelist" comment="Tarea 13 (Ejercicio Command) - Alejandra Chirinos">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Observer/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Observer/ICompaniaTelefonica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Observer/IUsuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Observer/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Observer/Promociones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Observer/Telefonia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Observer/UsuarioRegistrado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Observer/_enunciado" afterDir="false" />
+    <list default="true" id="404689e5-d8a3-415a-b6f6-434ad2975814" name="Default Changelist" comment="Ejercicio Observer (clases) - Alejandra Chirinos">
+      <change afterPath="$PROJECT_DIR$/src/main/java/State/Ejercicio14/Apagado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/State/Ejercicio14/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/State/Ejercicio14/Computadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/State/Ejercicio14/IState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/State/Ejercicio14/Prendido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/State/Ejercicio14/Reiniciar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/State/Ejercicio14/_enunciado" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +45,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -62,7 +62,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Clases git/UPBDesignPatterns2021" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RecentsManager">
@@ -70,32 +70,20 @@
       <recent name="D:\Patrones de diseño\Tareas git\Patrones-de-dise-o-Alejandra-Chirinos\src\main\java\ChainOfResponsability\Tarea12\Ejercicio1" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="State" />
       <recent name="Observer" />
       <recent name="ChainOfResponsability.Tarea12.Ejercicio2" />
       <recent name="Memento.Tarea11" />
       <recent name="Mediator.Tarea10" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Client (1)">
+  <component name="RunManager" selected="Application.Cliente">
     <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Observer.Client" />
       <module name="Patrones-de-dise-o-Alejandra-Chirinos.main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Observer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Cliente (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ChainOfResponsability.Tarea12.Ejercicio1.Cliente" />
-      <module name="Patrones-de-dise-o-Alejandra-Chirinos.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ChainOfResponsability.Tarea12.Ejercicio1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,6 +117,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Cliente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="State.Ejercicio14.Cliente" />
+      <module name="Patrones-de-dise-o-Alejandra-Chirinos.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="State.Ejercicio14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="cliente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Command.Tarea13.cliente" />
       <module name="Patrones-de-dise-o-Alejandra-Chirinos.main" />
@@ -144,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Cliente" />
         <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.cliente" />
         <item itemvalue="Application.Cliente (4)" />
         <item itemvalue="Application.Cliente (3)" />
-        <item itemvalue="Application.Cliente (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623196372446</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Ejercicio Observer (clases) - Alejandra Chirinos">
+      <created>1623244572303</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1623244572303</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -225,6 +233,7 @@
     <MESSAGE value="Tarea 12 (Ejercicio Chain of Responsability - clases) - Alejandra Chirinos" />
     <MESSAGE value="Tarea 12 (Ejercicio Chain of Responsability - extra) - Alejandra Chirinos" />
     <MESSAGE value="Tarea 13 (Ejercicio Command) - Alejandra Chirinos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tarea 13 (Ejercicio Command) - Alejandra Chirinos" />
+    <MESSAGE value="Ejercicio Observer (clases) - Alejandra Chirinos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio Observer (clases) - Alejandra Chirinos" />
   </component>
 </project>
