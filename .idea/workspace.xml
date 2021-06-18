@@ -4,16 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="404689e5-d8a3-415a-b6f6-434ad2975814" name="Default Changelist" comment="Practica 2 (Segundo Parcial) - Alejandra Chirinos">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Visitor/Ejercicio16/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Visitor/Ejercicio16/ConcreteVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Visitor/Ejercicio16/Document.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Visitor/Ejercicio16/IEditorDeTexto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Visitor/Ejercicio16/IVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Visitor/Ejercicio16/Notepad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Visitor/Ejercicio16/Sublime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Visitor/Ejercicio16/Word.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Visitor/Ejercicio16/_enunciado" afterDir="false" />
+    <list default="true" id="404689e5-d8a3-415a-b6f6-434ad2975814" name="Default Changelist" comment="Ejercicio 16 Visitor(clases) - Alejandra Chirinos">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Adapter/Tarea18/ArtefactoPequenoAdaptado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Adapter/Tarea18/Celular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Adapter/Tarea18/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Adapter/Tarea18/Computadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Adapter/Tarea18/IArtefactosElectronicosGrande.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Adapter/Tarea18/IArtefactosElectronicosPequeno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Adapter/Tarea18/Lavadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Adapter/Tarea18/Refrigerador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Adapter/Tarea18/Tablet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Adapter/Tarea18/Televisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Adapter/Tarea18/_enunciado" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Visitor/Ejercicio17/Argentina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Visitor/Ejercicio17/Bolivia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Visitor/Ejercicio17/Brasil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Visitor/Ejercicio17/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Visitor/Ejercicio17/IPaises.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Visitor/Ejercicio17/IVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Visitor/Ejercicio17/Italia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Visitor/Ejercicio17/LibreCambista1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Visitor/Ejercicio17/LibreCambista2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Visitor/Ejercicio17/_enunciado" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,33 +91,20 @@
       <recent name="D:\Patrones de diseno\Tareas git\Patrones-de-dise-o-Alejandra-Chirinos\src\main\java\State\Ejercicio14" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Adapter.Tarea18" />
+      <recent name="Visitor.Ejercicio17" />
       <recent name="Practica2.Ejercicio5Mediator" />
       <recent name="Practica2.Ejercicio3MementoYObserver" />
       <recent name="Practica2.Ejercicio2ChainResponsability" />
-      <recent name="Practica2.Ejercicio1Memento" />
-      <recent name="Strategy.Tarea15" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Client">
+  <component name="RunManager" selected="Application.Cliente (2)">
     <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practica2.Ejercicio5Mediator.Client" />
       <module name="Patrones-de-dise-o-Alejandra-Chirinos.main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Practica2.Ejercicio5Mediator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practica2.Ejercicio4Strategy.Client" />
-      <module name="Patrones-de-dise-o-Alejandra-Chirinos.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practica2.Ejercicio4Strategy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +125,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Cliente (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practica2.Ejercicio3MementoYObserver.Cliente" />
+    <configuration name="Cliente (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Visitor.Ejercicio17.Cliente" />
       <module name="Patrones-de-dise-o-Alejandra-Chirinos.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practica2.Ejercicio3MementoYObserver.*" />
+          <option name="PATTERN" value="Visitor.Ejercicio17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cliente (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Adapter.Tarea18.Cliente" />
+      <module name="Patrones-de-dise-o-Alejandra-Chirinos.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Adapter.Tarea18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Cliente (2)" />
+        <item itemvalue="Application.Cliente (1)" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.Cliente" />
         <item itemvalue="Application.Client (1)" />
-        <item itemvalue="Application.Client (2)" />
-        <item itemvalue="Application.Cliente (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -248,7 +260,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623638207666</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Ejercicio 16 Visitor(clases) - Alejandra Chirinos">
+      <created>1623994227834</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1623994227834</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -274,7 +293,8 @@
     <MESSAGE value="Ejercicio State (clases) - Alejandra Chirinos" />
     <MESSAGE value="Tarea 15 (Ejercicio Strategy) - Alejandra Chirinos" />
     <MESSAGE value="Practica 2 (Segundo Parcial) - Alejandra Chirinos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practica 2 (Segundo Parcial) - Alejandra Chirinos" />
+    <MESSAGE value="Ejercicio 16 Visitor(clases) - Alejandra Chirinos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 16 Visitor(clases) - Alejandra Chirinos" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
