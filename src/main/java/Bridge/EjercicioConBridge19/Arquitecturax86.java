@@ -1,4 +1,4 @@
-package Bridge.EjercicioConBridge;
+package Bridge.EjercicioConBridge19;
 
 public class Arquitecturax86 implements IArquitectura{
     @Override

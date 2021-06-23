@@ -1,4 +1,4 @@
-package Bridge.EjercicioConBridge;
+package Bridge.EjercicioConBridge19;
 
 public class Cliente {
     public static void main(String[] args){

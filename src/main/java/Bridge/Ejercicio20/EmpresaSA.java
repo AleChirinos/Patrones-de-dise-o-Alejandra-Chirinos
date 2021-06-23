@@ -1,4 +1,4 @@
-package Bridge.Ejercicio2;
+package Bridge.Ejercicio20;
 
 public class EmpresaSA implements  Empresas{
     private EnviodePaquete enviodePaquete;

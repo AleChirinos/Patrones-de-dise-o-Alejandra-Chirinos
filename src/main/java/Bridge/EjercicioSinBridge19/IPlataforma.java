@@ -1,4 +1,4 @@
-package Bridge.EjercicioSinBridge;
+package Bridge.EjercicioSinBridge19;
 
 public interface IPlataforma {
     void arquitecturax86();

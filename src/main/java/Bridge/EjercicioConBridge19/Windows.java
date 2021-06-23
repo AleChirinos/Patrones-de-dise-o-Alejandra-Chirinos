@@ -1,13 +1,13 @@
-package Bridge.EjercicioConBridge;
+package Bridge.EjercicioConBridge19;
 
-public class Linux implements IPlataforma{
+public class Windows implements IPlataforma{
     IArquitectura arquitectura;
-    public Linux(IArquitectura arquitectura){
+    public Windows(IArquitectura arquitectura){
         this.arquitectura=arquitectura;
     }
     @Override
     public void color() {
-        System.out.println("blanco");
+        System.out.println("negro");
     }
 
     @Override

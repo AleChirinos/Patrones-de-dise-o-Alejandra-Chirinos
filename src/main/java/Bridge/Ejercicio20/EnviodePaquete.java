@@ -1,4 +1,4 @@
-package Bridge.Ejercicio2;
+package Bridge.Ejercicio20;
 
 public interface EnviodePaquete {
     void enviarpaqute();

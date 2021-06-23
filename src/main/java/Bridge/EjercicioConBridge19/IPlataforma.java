@@ -1,4 +1,4 @@
-package Bridge.EjercicioConBridge;
+package Bridge.EjercicioConBridge19;
 
 public interface IPlataforma {
     void color();
