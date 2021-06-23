@@ -1,4 +1,4 @@
-package Proxy;
+package Proxy.Tarea21;
 
 public class TarjetaDeDebito implements IBanco{
     @Override
