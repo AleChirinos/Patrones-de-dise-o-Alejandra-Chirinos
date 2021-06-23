@@ -4,28 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="404689e5-d8a3-415a-b6f6-434ad2975814" name="Default Changelist" comment="Ejercicio 16 Visitor(clases) - Alejandra Chirinos">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Adapter/Tarea18/ArtefactoPequenoAdaptado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Adapter/Tarea18/Celular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Adapter/Tarea18/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Adapter/Tarea18/Computadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Adapter/Tarea18/IArtefactosElectronicosGrande.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Adapter/Tarea18/IArtefactosElectronicosPequeno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Adapter/Tarea18/Lavadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Adapter/Tarea18/Refrigerador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Adapter/Tarea18/Tablet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Adapter/Tarea18/Televisor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Adapter/Tarea18/_enunciado" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Visitor/Ejercicio17/Argentina.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Visitor/Ejercicio17/Bolivia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Visitor/Ejercicio17/Brasil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Visitor/Ejercicio17/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Visitor/Ejercicio17/IPaises.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Visitor/Ejercicio17/IVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Visitor/Ejercicio17/Italia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Visitor/Ejercicio17/LibreCambista1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Visitor/Ejercicio17/LibreCambista2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Visitor/Ejercicio17/_enunciado" afterDir="false" />
+    <list default="true" id="404689e5-d8a3-415a-b6f6-434ad2975814" name="Default Changelist" comment="Tarea 18 (Adapter) - Alejandra Chirinos">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bridge/Ejercicio2/Aire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bridge/Ejercicio2/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bridge/Ejercicio2/EmpresaSA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bridge/Ejercicio2/EmpresaSRL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bridge/Ejercicio2/Empresas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bridge/Ejercicio2/EnviodePaquete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bridge/Ejercicio2/Mar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bridge/Ejercicio2/Tierra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bridge/Ejercicio2/_enunciado" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bridge/EjercicioConBridge/Arquitecturax64.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bridge/EjercicioConBridge/Arquitecturax86.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bridge/EjercicioConBridge/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bridge/EjercicioConBridge/IArquitectura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bridge/EjercicioConBridge/IPlataforma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bridge/EjercicioConBridge/Linux.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bridge/EjercicioConBridge/Windows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bridge/EjercicioConBridge/ejercicioBridge.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bridge/EjercicioSinBridge/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bridge/EjercicioSinBridge/IPlataforma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bridge/EjercicioSinBridge/Linux.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bridge/EjercicioSinBridge/SinBridge.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bridge/EjercicioSinBridge/Windows.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,37 +82,24 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Patrones de diseno\Tareas git\Patrones-de-dise-o-Alejandra-Chirinos\src\main\java\Bridge\EjercicioSinBridge" />
+      <recent name="D:\Patrones de diseno\Tareas git\Patrones-de-dise-o-Alejandra-Chirinos\src\main\java\Bridge\EjercicioConBridge" />
       <recent name="D:\Patrones de diseno\Tareas git\Patrones-de-dise-o-Alejandra-Chirinos\src\main\java\Visitor" />
       <recent name="D:\Patrones de diseno\Tareas git\Patrones-de-dise-o-Alejandra-Chirinos\src\main\java\Practica2\Ejercicio6Singleton" />
       <recent name="D:\Patrones de diseno\Tareas git\Patrones-de-dise-o-Alejandra-Chirinos\src\main\java\Practica2\Ejercicio5Mediator" />
-      <recent name="D:\Patrones de diseno\Tareas git\Patrones-de-dise-o-Alejandra-Chirinos\src\main\java\Practica2\Ejercicio4Strategy" />
-      <recent name="D:\Patrones de diseno\Tareas git\Patrones-de-dise-o-Alejandra-Chirinos\src\main\java\Practica2\Ejercicio3Observer" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Patrones de diseno\Tareas git\Patrones-de-dise-o-Alejandra-Chirinos\src\main\java\State\Ejercicio14" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Bridge.Ejercicio2" />
       <recent name="Adapter.Tarea18" />
       <recent name="Visitor.Ejercicio17" />
       <recent name="Practica2.Ejercicio5Mediator" />
       <recent name="Practica2.Ejercicio3MementoYObserver" />
-      <recent name="Practica2.Ejercicio2ChainResponsability" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Cliente (2)">
-    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practica2.Ejercicio5Mediator.Client" />
-      <module name="Patrones-de-dise-o-Alejandra-Chirinos.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practica2.Ejercicio5Mediator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Cliente (3)">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practica2.Ejercicio6Singleton.Client" />
       <module name="Patrones-de-dise-o-Alejandra-Chirinos.main" />
@@ -151,6 +139,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Cliente (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bridge.Ejercicio2.Cliente" />
+      <module name="Patrones-de-dise-o-Alejandra-Chirinos.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Bridge.Ejercicio2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Cliente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practica2.Ejercicio1Memento.Cliente" />
       <module name="Patrones-de-dise-o-Alejandra-Chirinos.main" />
@@ -166,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Cliente (3)" />
         <item itemvalue="Application.Cliente (2)" />
         <item itemvalue="Application.Cliente (1)" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.Cliente" />
-        <item itemvalue="Application.Client (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -267,7 +268,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623994227834</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Tarea 18 (Adapter) - Alejandra Chirinos">
+      <created>1624053832014</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1624053832014</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -294,7 +302,8 @@
     <MESSAGE value="Tarea 15 (Ejercicio Strategy) - Alejandra Chirinos" />
     <MESSAGE value="Practica 2 (Segundo Parcial) - Alejandra Chirinos" />
     <MESSAGE value="Ejercicio 16 Visitor(clases) - Alejandra Chirinos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 16 Visitor(clases) - Alejandra Chirinos" />
+    <MESSAGE value="Tarea 18 (Adapter) - Alejandra Chirinos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tarea 18 (Adapter) - Alejandra Chirinos" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
