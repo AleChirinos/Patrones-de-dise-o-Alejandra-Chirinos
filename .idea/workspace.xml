@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="404689e5-d8a3-415a-b6f6-434ad2975814" name="Default Changelist" comment="Tarea 21 (Ejercicio Proxy) - Alejandra Chirinos" />
+    <list default="true" id="404689e5-d8a3-415a-b6f6-434ad2975814" name="Default Changelist" comment="Tarea 21 (Ejercicio Proxy) - Alejandra Chirinos">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Composite/Tarea22/Basico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Composite/Tarea22/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Composite/Tarea22/CompositeEquipo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Composite/Tarea22/EquipoElectronico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Composite/Tarea22/Global.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Composite/Tarea22/_enunciado" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,20 +94,7 @@
       <recent name="Practica2.Ejercicio3MementoYObserver" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Cliente (4)">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practica2.Ejercicio6Singleton.Client" />
-      <module name="Patrones-de-dise-o-Alejandra-Chirinos.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practica2.Ejercicio6Singleton.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Cliente (5)">
     <configuration name="Cliente (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Visitor.Ejercicio17.Cliente" />
       <module name="Patrones-de-dise-o-Alejandra-Chirinos.main" />
@@ -152,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Cliente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bridge.Ejercicio20.Cliente" />
+    <configuration name="Cliente (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Composite.Tarea22.Cliente" />
       <module name="Patrones-de-dise-o-Alejandra-Chirinos.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Bridge.Ejercicio20.*" />
+          <option name="PATTERN" value="Composite.Tarea22.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Cliente (5)" />
         <item itemvalue="Application.Cliente (4)" />
         <item itemvalue="Application.Cliente (3)" />
         <item itemvalue="Application.Cliente (2)" />
         <item itemvalue="Application.Cliente (1)" />
-        <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
   </component>
@@ -296,7 +291,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624484417077</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Tarea 21 (Ejercicio Proxy) - Alejandra Chirinos">
+      <created>1624485029471</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1624485029471</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
