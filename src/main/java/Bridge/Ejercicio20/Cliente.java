@@ -20,7 +20,5 @@ public class Cliente {
 
         Empresas empresaSA3 = new EmpresaSA(new Mar("ENTEL", 60));
         empresaSA3.tipoDeEnvio();
-
-
     }
 }
